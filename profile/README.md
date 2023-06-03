@@ -25,6 +25,6 @@ To learn more about our services or discuss your specific requirements, feel fre
 
 - 🌐 Website: [www.shadikur.com](https://www.shadikur.com/)
 - 💼 LinkedIn: [shadikur](https://www.linkedin.com/in/shadikur)
-- 📧 Email: [info@shadikur.com](mailto:info@shadikur.com)
+- 📧 Email: [hello@shadikur.com](mailto:hello@shadikur.com)
 
 Let's collaborate and achieve excellence in telecom and IT solutions!
